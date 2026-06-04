@@ -1,4 +1,5 @@
 Project 2: Diabetes and Mortality in Heart Failure Patients Using R
+
 Introduction
 Diabetes is a common chronic condition and an important cardiovascular risk factor. This project explored whether mortality differed between heart failure patients with and without diabetes using a simulated heart failure mortality dataset.
 
