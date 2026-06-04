@@ -76,7 +76,7 @@ As populations continue to age, understanding factors associated with poorer hea
 
 ## Visualization
 
-![Age by Mortality Outcome](Rplot02.png)
+Project-1-Age-and-Mortality/Age by Mortality Outcome
 
 ## Tools Used
 
