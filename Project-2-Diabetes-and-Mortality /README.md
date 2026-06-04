@@ -63,7 +63,7 @@ This project demonstrates the importance of distinguishing between apparent diff
 
 ## Visualization
 
-![Mortality Rate by Diabetes Status](mortality_rate_diabetes.png)
+[![Mortality Rate by Diabetes Status](mortality_rate_diabetes.png)](https://github.com/Oladapo-jpg/public-health-projects/commit/98ea6fbfb963fd612024af6996534a7786b9460b)
 
 ## Tools Used
 
