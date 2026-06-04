@@ -76,7 +76,7 @@ As populations continue to age, understanding factors associated with poorer hea
 
 ## Visualization
 
-Project-1-Age-and-Mortality/age_mortality_boxplot.png
+[Project-1-Age-and-Mortality/age_mortality_boxplot.png](https://github.com/Oladapo-jpg/public-health-projects/commit/6c0b24936ce4995fca1d343b0c292c67481f676e)
 
 ## Tools Used
 
