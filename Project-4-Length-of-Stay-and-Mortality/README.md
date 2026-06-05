@@ -39,7 +39,7 @@ Understanding factors associated with prolonged hospital stays can help inform h
 
 ## Visualization
 
-![Length of Stay by Mortality Status](length_of_stay_mortality_boxplot.png)
+[![Length of Stay by Mortality Status](length_of_stay_mortality_boxplot.png)](https://github.com/Oladapo-jpg/public-health-projects/blob/main/Project-4-Length-of-Stay-and-Mortality/length_of_stay_mortality_boxplot.png.png)
 
 ## Tools Used
 
