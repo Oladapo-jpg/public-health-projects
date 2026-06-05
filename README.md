@@ -18,6 +18,10 @@ Investigated whether mortality differed across deprivation quintiles using morta
 
 Investigated whether hospital length of stay differed between survivors and non-survivors using descriptive statistics, visualization, and Welch's t-test.
 
+### Project 5: Renal Disease and Mortality in Heart Failure Patients
+
+Investigated the association between renal disease and mortality using contingency tables, Chi-square testing, and mortality rate visualization.
+
 
 ## Dataset
 
