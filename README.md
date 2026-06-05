@@ -14,6 +14,10 @@ Investigated the association between diabetes status and mortality using conting
 
 Investigated whether mortality differed across deprivation quintiles using mortality rate analysis, Chi-square testing, and data visualization.
 
+### Project 4: Length of Stay and Mortality in Heart Failure Patients
+
+Investigated whether hospital length of stay differed between survivors and non-survivors using descriptive statistics, visualization, and Welch's t-test.
+
 
 ## Dataset
 
