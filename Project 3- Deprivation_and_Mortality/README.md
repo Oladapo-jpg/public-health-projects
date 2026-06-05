@@ -43,7 +43,7 @@ Understanding whether health outcomes vary across socioeconomic groups is an imp
 
 ## Visualization
 
-![Mortality Rate by Deprivation Quintile](mortality_deprivation_quintile.png)
+[![Mortality Rate by Deprivation Quintile](mortality_deprivation_quintile.png)](https://github.com/Oladapo-jpg/public-health-projects/commit/f1d450e064b2bd6ea5d5fe6e4a48993f885cbf39)
 
 ## Tools Used
 
