@@ -40,7 +40,7 @@ Comorbid conditions such as renal disease are important considerations in heart 
 
 ## Visualization
 
-![Mortality Rate by Renal Disease Status](mortality_rate_renal_disease.png)
+[![Mortality Rate by Renal Disease Status](mortality_rate_renal_disease.png)](https://github.com/Oladapo-jpg/public-health-projects/commit/b4b7d05d79251c2406b676c485b08379f3f78004)
 
 ## Tools Used
 
