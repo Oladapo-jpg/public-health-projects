@@ -39,7 +39,7 @@ Model Performance:
 
   ## Visualization
 
-![Predictors of Length of Stay](predictors_length_of_stay_coefficients.png)
+[![Predictors of Length of Stay](predictors_length_of_stay_coefficients.png)](https://github.com/Oladapo-jpg/public-health-projects/blob/main/Project-7-%20%20Predictors%20of%20Length%20of%20Stay%20in%20Heart%20Failure%20Patients/Predictors%20of%20Length%20of%20Stay.png)
 
 ## Interpretation
 
