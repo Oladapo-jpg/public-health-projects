@@ -22,6 +22,9 @@ Investigated whether hospital length of stay differed between survivors and non-
 
 Investigated the association between renal disease and mortality using contingency tables, Chi-square testing, and mortality rate visualization.
 
+## Project 6: Predictors of Mortality in Heart Failure Patients
+
+Investigated the independent association of age, diabetes, renal disease, and hypertension with mortality using multivariable logistic regression, adjusted odds ratios, and confidence intervals.
 
 ## Dataset
 
