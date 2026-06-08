@@ -47,4 +47,4 @@ Multivariable models help identify independent risk factors while accounting for
 * RStudio
 * Logistic Regression
 * Odds Ratios
-* Confidence Intervals
+* Confidence Intervals.
