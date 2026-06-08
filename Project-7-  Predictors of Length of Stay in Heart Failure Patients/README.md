@@ -37,6 +37,10 @@ Model Performance:
 * Adjusted R² = 0.011
 * Overall Model p-value = 0.005
 
+  ## Visualization
+
+![Predictors of Length of Stay](predictors_length_of_stay_coefficients.png)
+
 ## Interpretation
 
 Older age and renal disease were independently associated with longer hospital stays.
