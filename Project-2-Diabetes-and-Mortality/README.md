@@ -71,4 +71,4 @@ This project demonstrates the importance of distinguishing between apparent diff
 * RStudio
 * ggplot2
 * Pearson's Chi-square Test
-* Odds Ratio Analysis
+* Odds Ratio Analysis.
