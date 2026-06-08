@@ -26,6 +26,10 @@ Investigated the association between renal disease and mortality using contingen
 
 Investigated the independent association of age, diabetes, renal disease, and hypertension with mortality using multivariable logistic regression, adjusted odds ratios, and confidence intervals.
 
+## Project 7: Predictors of Length of Stay in Heart Failure Patients
+
+Investigated factors associated with hospital length of stay using multivariable linear regression, regression coefficients, confidence intervals, and epidemiological interpretation of healthcare utilization outcomes.
+
 ## Dataset
 
 Simulated Heart Failure Mortality Dataset (1,000 observations).
