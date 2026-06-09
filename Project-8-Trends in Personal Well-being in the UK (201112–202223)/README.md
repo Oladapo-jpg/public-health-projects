@@ -6,6 +6,25 @@ Personal well-being is an important indicator of population health and quality o
 
 This project explored how these indicators changed over time and examined the impact of the COVID-19 period on personal well-being in the UK.
 
+# Project 8: Trends in Personal Well-being in the UK (2011/12–2022/23)
+
+## Introduction
+
+Personal well-being is an important indicator of population health and quality of life. The UK Office for National Statistics (ONS) collects annual data on key well-being measures, including life satisfaction, happiness, feelings that life is worthwhile, and anxiety.
+
+This project explored how these indicators changed over time and examined the impact of the COVID-19 period on personal well-being in the UK.
+
+## Data Source
+
+Office for National Statistics (ONS).
+
+Personal Well-being Estimates, UK: April 2011 to March 2023.
+
+Available at:
+https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/headlineestimatesofpersonalwellbeing
+
+This project uses official UK national statistics rather than a simulated dataset.
+
 ## Research Question
 
 How have key measures of personal well-being changed in the UK between 2011/12 and 2022/23?
