@@ -23,7 +23,7 @@ Office for National Statistics (ONS) Personal Well-being Estimates, UK.
 
 ## Visualization
 
-![Trends in Personal Well-being Measures in the UK](wellbeing_trends_uk.png)
+[![Trends in Personal Well-being Measures in the UK](wellbeing_trends_uk.png)](https://github.com/Oladapo-jpg/public-health-projects/blob/main/Project%20-8-Trends%20in%20Personal%20Well-being%20in%20the%20UK%20(201112%E2%80%93202223)/Personal%20Wellbeing%20in%20the%20UK(2011-2022.png)
 
 **Figure 1.** Trends in average scores for life satisfaction, happiness, feelings that life is worthwhile, and anxiety among UK adults from 2011/12 to 2022/23.
 
