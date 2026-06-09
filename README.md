@@ -30,6 +30,10 @@ Investigated the independent association of age, diabetes, renal disease, and hy
 
 Investigated factors associated with hospital length of stay using multivariable linear regression, regression coefficients, confidence intervals, and epidemiological interpretation of healthcare utilization outcomes.
 
+## Project 8: Trends in Personal Well-being in the UK (2011/12–2022/23)
+
+Explored long-term trends in life satisfaction, happiness, feelings that life is worthwhile, and anxiety using official UK ONS data, trend analysis, and public health interpretation.
+
 ## Dataset
 
 Simulated Heart Failure Mortality Dataset (1,000 observations).
