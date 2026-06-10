@@ -34,6 +34,11 @@ Investigated factors associated with hospital length of stay using multivariable
 
 Explored long-term trends in life satisfaction, happiness, feelings that life is worthwhile, and anxiety using official UK ONS data, trend analysis, and public health interpretation.
 
+## Project 9: The Impact of COVID-19 on Personal Well-being in the UK
+
+Compared average personal well-being scores before and during the COVID/Post-COVID period using official UK ONS data, highlighting reductions in life satisfaction, happiness, and feelings that life is worthwhile, alongside increased anxiety levels.
+
+
 ## Dataset
 
 Simulated Heart Failure Mortality Dataset (1,000 observations).
