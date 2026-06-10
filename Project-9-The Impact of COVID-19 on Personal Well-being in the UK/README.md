@@ -30,7 +30,7 @@ How did personal well-being change during and after the COVID-19 period compared
 
 ## Visualization
 
-![Well-being Changes During COVID-19](covid_wellbeing_change.png)
+[![Well-being Changes During COVID-19](covid_wellbeing_change.png)](https://github.com/Oladapo-jpg/public-health-projects/blob/main/Project-9-The%20Impact%20of%20COVID-19%20on%20Personal%20Well-being%20in%20the%20UK/Change%20in%20Personal%20Well-being%20During%20COVID-19.png)
 
 **Figure 1.** Change in average personal well-being scores during the COVID/Post-COVID period compared with pre-COVID levels.
 
