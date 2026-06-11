@@ -38,6 +38,10 @@ Explored long-term trends in life satisfaction, happiness, feelings that life is
 
 Compared average personal well-being scores before and during the COVID/Post-COVID period using official UK ONS data, highlighting reductions in life satisfaction, happiness, and feelings that life is worthwhile, alongside increased anxiety levels.
 
+## Project 10: Self-Harm Rates by Sexual Orientation in England and Wales
+
+Explored health inequalities in intentional self-harm using official ONS data. The analysis found substantially higher age-standardised self-harm rates among LGB+ populations compared with heterosexual populations, with the highest rates observed among females.
+
 
 ## Dataset
 
