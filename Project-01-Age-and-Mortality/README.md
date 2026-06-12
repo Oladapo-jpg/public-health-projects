@@ -8,7 +8,7 @@ Heart failure remains a major public health challenge, particularly among older 
 
 This project explored whether age differed between heart failure patients who survived and those who died using a simulated heart failure mortality dataset analysed in R.
 
----
+----
 
 ## Objective
 
