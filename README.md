@@ -42,6 +42,10 @@ Compared average personal well-being scores before and during the COVID/Post-COV
 
 Explored health inequalities in intentional self-harm using official ONS data. The analysis found substantially higher age-standardised self-harm rates among LGB+ populations compared with heterosexual populations, with the highest rates observed among females.
 
+## Project 11: Educational Attainment Inequalities by Disability Status in the UK
+
+Used Office for National Statistics (ONS) data to examine educational attainment among disabled and non-disabled adults between 2014 and 2021. Degree-level attainment increased for both groups, while the proportion of adults with no qualifications declined. However, substantial educational inequalities persisted throughout the study period.
+
 
 ## Dataset
 
