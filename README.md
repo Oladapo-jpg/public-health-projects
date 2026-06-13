@@ -46,6 +46,10 @@ Explored health inequalities in intentional self-harm using official ONS data. T
 
 Used Office for National Statistics (ONS) data to examine educational attainment among disabled and non-disabled adults between 2014 and 2021. Degree-level attainment increased for both groups, while the proportion of adults with no qualifications declined. However, substantial educational inequalities persisted throughout the study period.
 
+## Project 12: Regional Educational Attainment Inequalities by Disability Status in England
+
+Used Office for National Statistics (ONS) regional education data to examine degree-level attainment among disabled and non-disabled adults across English regions. While London reported the highest educational attainment overall, it also exhibited the largest disability-related attainment gap, highlighting substantial regional inequalities.
+
 
 ## Dataset
 
