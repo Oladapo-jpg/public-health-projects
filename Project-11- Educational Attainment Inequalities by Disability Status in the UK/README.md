@@ -67,7 +67,7 @@ Trends were visualized using line charts comparing disabled and non-disabled adu
 * ggplot2
 * tidyr
 
----
+----
 
 ## Results
 
