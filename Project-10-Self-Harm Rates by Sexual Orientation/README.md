@@ -21,7 +21,7 @@ How do intentional self-harm rates vary by sexual orientation and sex in England
 * Descriptive analysis
 * Comparison of age-standardised rates
 * Visualisation using grouped bar charts with 95% confidence intervals
-* Public health interpretation
+* Public health interpretation.
 
 ## Key Findings
 
