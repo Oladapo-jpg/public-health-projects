@@ -6,7 +6,7 @@ Educational attainment is an important social determinant of health and is assoc
 
 This project explores regional differences in degree-level educational attainment among adults aged 21–64 years in England using Office for National Statistics (ONS) data.
 
----
+----
 
 ## Data Source
 
