@@ -54,6 +54,10 @@ Used Office for National Statistics (ONS) regional education data to examine deg
 
 This project introduces survival analysis using the Heart Failure Clinical Records dataset. Kaplan-Meier survival curves and a log-rank test were used to compare survival time between heart failure patients with and without diabetes. The analysis found no statistically significant difference in survival between the two groups, demonstrating the use of time-to-event methods in clinical epidemiology.
 
+### Project 14: Predictors of Survival in Heart Failure Patients Using Cox Proportional Hazards Regression
+
+This project used Cox proportional hazards regression to investigate independent predictors of mortality among heart failure patients. Older age, hypertension, lower ejection fraction, and higher serum creatinine levels were significantly associated with an increased hazard of death. The analysis demonstrates the application of survival modelling and hazard ratio interpretation in clinical epidemiology.
+
 
 ## Dataset
 
