@@ -58,6 +58,10 @@ This project introduces survival analysis using the Heart Failure Clinical Recor
 
 This project used Cox proportional hazards regression to investigate independent predictors of mortality among heart failure patients. Older age, hypertension, lower ejection fraction, and higher serum creatinine levels were significantly associated with an increased hazard of death. The analysis demonstrates the application of survival modelling and hazard ratio interpretation in clinical epidemiology.
 
+### Project 15: Geographical Inequalities in Healthy Life Expectancy Across Local Authorities in England
+
+Used Office for National Statistics (ONS) data to examine geographical variation in healthy life expectancy across English local authorities. The analysis identified substantial inequalities, with differences of approximately 18–19 years in healthy life expectancy between the highest- and lowest-performing areas for both males and females.
+
 
 ## Dataset
 
