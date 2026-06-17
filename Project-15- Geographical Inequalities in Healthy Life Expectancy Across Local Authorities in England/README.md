@@ -12,12 +12,11 @@ This project explores healthy life expectancy across local authorities in Englan
 
 Office for National Statistics (ONS)
 
-Dataset: Health State Life Expectancies
+Dataset: Healthy Life Expectancy at Birth by Local Authority, England (2022–2024)
 
-Period: 2022–2024
+Source: Office for National Statistics (ONS)
 
-Geography: Local Authorities in England
-
+Original dataset obtained from the ONS Health State Life Expectancies release. This project used data from Table 1 and was restricted to local authorities in England for the period 2022–2024.
 Website: https://www.ons.gov.uk
 
 ## Research Question
