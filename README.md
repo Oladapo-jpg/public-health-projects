@@ -66,6 +66,9 @@ Used Office for National Statistics (ONS) data to examine geographical variation
 
 Used national public health surveillance data to examine long-term trends in adult obesity prevalence in England. Obesity prevalence increased from 14.9% in 1993 to 29.9% in 2024, representing an increase of approximately 15 percentage points and a relative increase of 100.7%, highlighting the growing burden of obesity as a major public health challenge.
 
+### Project 17: Socioeconomic Inequalities in Smoking Prevalence in England (2016)
+Used national public health data to examine smoking prevalence across deprivation deciles in England. Smoking prevalence was highest in the most deprived decile (27.2%) and lowest in the least deprived decile (7.9%), revealing a substantial inequality gap of 19.3 percentage points and demonstrating a clear socioeconomic gradient in smoking behaviour.
+
 ## Dataset
 
 Simulated Heart Failure Mortality Dataset (1,000 observations).
