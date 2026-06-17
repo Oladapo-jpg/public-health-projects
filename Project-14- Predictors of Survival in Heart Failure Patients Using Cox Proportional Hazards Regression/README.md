@@ -44,7 +44,7 @@ Predictor variables:
 * Anaemia
 * Sex
 * Ejection fraction
-* Serum creatinine
+* Serum creatinine.
 
 ### Analysis
 
