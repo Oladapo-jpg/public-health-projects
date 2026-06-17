@@ -62,6 +62,9 @@ This project used Cox proportional hazards regression to investigate independent
 
 Used Office for National Statistics (ONS) data to examine geographical variation in healthy life expectancy across English local authorities. The analysis identified substantial inequalities, with differences of approximately 18–19 years in healthy life expectancy between the highest- and lowest-performing areas for both males and females.
 
+### Project 16: Trends in Adult Obesity Prevalence in England (1993–2024)
+
+Used national public health surveillance data to examine long-term trends in adult obesity prevalence in England. Obesity prevalence increased from 14.9% in 1993 to 29.9% in 2024, representing an increase of approximately 15 percentage points and a relative increase of 100.7%, highlighting the growing burden of obesity as a major public health challenge.
 
 ## Dataset
 
