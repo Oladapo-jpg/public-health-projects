@@ -93,7 +93,7 @@ Approximately 98.0% of the variation in prevalence was explained by year.
 
 ## Figure
 
-![Forecast of Adult Overweight and Obesity Prevalence](obesity_forecast_england.png)
+[![Forecast of Adult Overweight and Obesity Prevalence](obesity_forecast_england.png)](https://github.com/Oladapo-jpg/public-health-projects/blob/main/Project-20-Forecasting-Adult-Overweight-and-Obesity/obesity_forecast_england35.png)
 
 **Figure 1.** Observed and forecast adult overweight and obesity prevalence in England. Forecasts were generated using a linear regression model.
 
