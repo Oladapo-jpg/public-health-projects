@@ -69,6 +69,9 @@ Used national public health surveillance data to examine long-term trends in adu
 ### Project 17: Socioeconomic Inequalities in Smoking Prevalence in England (2016)
 Used national public health data to examine smoking prevalence across deprivation deciles in England. Smoking prevalence was highest in the most deprived decile (27.2%) and lowest in the least deprived decile (7.9%), revealing a substantial inequality gap of 19.3 percentage points and demonstrating a clear socioeconomic gradient in smoking behaviour.
 
+### Project 18: Healthy Life Expectancy Inequalities by Deprivation in England
+
+Used national healthy life expectancy data to examine socioeconomic inequalities across deprivation deciles in England. Healthy life expectancy increased steadily with decreasing deprivation for both males and females. Men in the least deprived decile experienced 18.4 additional years of healthy life expectancy compared with the most deprived decile, while the gap for women was 19.7 years.
 ## Dataset
 
 Simulated Heart Failure Mortality Dataset (1,000 observations).
