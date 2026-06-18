@@ -96,4 +96,32 @@ hle_local_authorities_england_2022_2024.xlsx
 
 Simulated Heart Failure Mortality Dataset (1,000 observations).
 
-📊 20 Completed Projects | 📈 R Programming | 🏥 Public Health Analytics | 📉 Epidemiology
+# Public Health Projects Using R
+
+📊 20 Completed Projects | 📈 R Programming | 🏥 Public Health Analytics | 🔬 Epidemiology
+
+A collection of practical public health and epidemiological data analysis projects completed using R.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Visualisation
+- Statistical Testing
+- Logistic Regression
+- Survival Analysis
+- Cox Regression
+- Correlation Analysis
+- Linear Regression
+- Forecasting
+- Health Inequalities Analysis
+
+## Portfolio Summary
+
+- 20 completed projects
+- Real-world public health datasets
+- Reproducible R analyses
+- Focus on epidemiology and population health
+
+## Completed Projects
+
+...
