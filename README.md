@@ -72,6 +72,11 @@ Used national public health data to examine smoking prevalence across deprivatio
 ### Project 18: Healthy Life Expectancy Inequalities by Deprivation in England
 
 Used national healthy life expectancy data to examine socioeconomic inequalities across deprivation deciles in England. Healthy life expectancy increased steadily with decreasing deprivation for both males and females. Men in the least deprived decile experienced 18.4 additional years of healthy life expectancy compared with the most deprived decile, while the gap for women was 19.7 years.
+
+### Project 19: Association Between Deprivation and Healthy Life Expectancy in England
+
+Used correlation and linear regression analysis to examine the relationship between deprivation and healthy life expectancy among males in England. A very strong positive correlation was observed (r = 0.978, 95% CI: 0.908–0.995, p < 0.001). Linear regression showed that each increase in deprivation decile was associated with approximately 1.9 additional years of healthy life expectancy. Deprivation explained 95.7% of the variation in healthy life expectancy (R² = 0.957).
+
 ## Dataset
 
 Simulated Heart Failure Mortality Dataset (1,000 observations).
