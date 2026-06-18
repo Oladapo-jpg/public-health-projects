@@ -77,6 +77,10 @@ Used national healthy life expectancy data to examine socioeconomic inequalities
 
 Used correlation and linear regression analysis to examine the relationship between deprivation and healthy life expectancy among males in England. A very strong positive correlation was observed (r = 0.978, 95% CI: 0.908–0.995, p < 0.001). Linear regression showed that each increase in deprivation decile was associated with approximately 1.9 additional years of healthy life expectancy. Deprivation explained 95.7% of the variation in healthy life expectancy (R² = 0.957).
 
+### Project 20: Forecasting Adult Overweight and Obesity Prevalence in England
+
+Examined trends in adult overweight and obesity prevalence in England between 2015/16 and 2024/25 using linear regression. Forecasts were generated to estimate future prevalence through 2035. The analysis found a significant upward trend, with prevalence projected to increase from 64.6% in 2024/25 to approximately 69.0% by 2035 if current trends continue.
+
 ## Dataset
 
 Simulated Heart Failure Mortality Dataset (1,000 observations).
