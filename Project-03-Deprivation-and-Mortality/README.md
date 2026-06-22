@@ -50,4 +50,4 @@ Understanding whether health outcomes vary across socioeconomic groups is an imp
 * R
 * RStudio
 * ggplot2
-* Pearson's Chi-square Test
+* Pearson's Chi-square Test.
