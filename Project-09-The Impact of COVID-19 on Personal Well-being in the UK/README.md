@@ -36,7 +36,7 @@ How did personal well-being change during and after the COVID-19 period compared
 
 ## Key Findings
 
-* Life satisfaction decreased by approximately 0.14 points.
+* Life satisfaction decreased by approximately 0.14 points
 * Feelings that life is worthwhile decreased by approximately 0.07 points.
 * Happiness decreased by approximately 0.06 points.
 * Anxiety increased by approximately 0.27 points.
