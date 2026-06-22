@@ -6,7 +6,7 @@ This project explores socioeconomic inequalities in smoking prevalence across de
 
 Smoking is a major risk factor for cardiovascular disease, respiratory disease, cancer, and premature mortality. Understanding how smoking prevalence varies across socioeconomic groups can help identify health inequalities and inform public health interventions.
 
----
+----
 
 ## Research Question
 
