@@ -61,4 +61,4 @@ Identifying factors associated with prolonged hospital stays can help healthcare
 * RStudio
 * Linear Regression
 * Confidence Intervals
-* Data Visualization
+* Data Visualization.
