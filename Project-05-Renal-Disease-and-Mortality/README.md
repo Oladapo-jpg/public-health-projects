@@ -47,4 +47,4 @@ Comorbid conditions such as renal disease are important considerations in heart 
 - R
 - RStudio
 - ggplot2
-- Pearson's Chi-square Test
+- Pearson's Chi-square Test.
