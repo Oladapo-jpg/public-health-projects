@@ -6,7 +6,7 @@ This project explores long-term trends in adult obesity prevalence in England us
 
 The aim was to examine how obesity prevalence has changed over time and to quantify the scale of change between 1993 and 2024.
 
----
+----
 
 ## Research Question
 
