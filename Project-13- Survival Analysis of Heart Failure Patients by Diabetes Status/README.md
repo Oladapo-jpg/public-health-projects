@@ -82,7 +82,7 @@ The test found no statistically significant difference in survival between patie
 
 Heart failure is a major contributor to morbidity and mortality worldwide. Understanding factors that influence patient survival is important for healthcare planning and clinical decision-making.
 
-This project demonstrates how survival analysis can be used to examine time-to-event outcomes in patient populations. It also highlights that risk factors associated with disease occurrence do not necessarily translate into differences in survival duration.
+This project demonstrates how survival analysis can be used to examine time-to-event outcomes in patient populations. It also highlights that risk factors associated with disease occurrence do not necessarily translate into differences in survival duration
 
 The project provides an introduction to survival analysis methods commonly used in epidemiology, clinical research, and public health studies.
 
