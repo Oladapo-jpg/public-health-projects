@@ -6,7 +6,7 @@ This project explores socioeconomic inequalities in healthy life expectancy acro
 
 Healthy Life Expectancy (HLE) measures the average number of years a person can expect to live in good health. Examining HLE across deprivation groups helps identify inequalities in both health outcomes and quality of life.
 
----
+----
 
 ## Research Question
 
