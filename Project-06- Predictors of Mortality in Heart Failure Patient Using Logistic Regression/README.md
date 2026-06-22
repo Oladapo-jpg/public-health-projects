@@ -20,7 +20,7 @@ Which patient characteristics are independently associated with mortality among 
 * Multivariable Logistic Regression
 * Odds Ratio (OR) estimation
 * 95% Confidence Intervals
-* Statistical significance testing
+* Statistical significance testing.
 
 ## Results
 
