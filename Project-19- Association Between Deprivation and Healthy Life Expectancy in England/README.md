@@ -6,7 +6,7 @@ This project investigates the relationship between socioeconomic deprivation and
 
 Healthy life expectancy measures the average number of years a person can expect to live in good health. Understanding how HLE varies across deprivation groups helps quantify health inequalities and identify populations most affected by poor health outcomes.
 
----
+----
 
 ## Research Question
 
