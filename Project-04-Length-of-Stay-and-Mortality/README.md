@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Length of hospital stay is an important healthcare metric that may reflect disease severity, resource utilization, and patient outcomes. This project explored whether hospital length of stay differed between survivors and non-survivors among heart failure patients.
+Length of hospital stay is an important healthcare metric that may reflect disease severity, resource utilization,and patient outcomes. This project explored whether hospital length of stay differed between survivors and non-survivors among heart failure patients.
 
 ## Research Question
 
